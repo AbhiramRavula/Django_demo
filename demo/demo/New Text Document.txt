@@ -1,0 +1,14 @@
+To run in cmd with the directory open in cmd
+
+py manage.py runserver
+
+
+Admin 
+username : abhiram
+password : abhiram
+
+
+
+to create a project in Django type this in cmd with the specified directory
+
+django-admin startproject project_name
